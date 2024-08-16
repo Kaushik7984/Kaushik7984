@@ -43,11 +43,10 @@
 </a>
 </p>
 
-<div align="left">
-  <a href="https://github.com/Kaushik7984?tab=repositories" target="_blank" >
-    <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
-  </a>
-</div>
+<p align="left">
+  <a href="https://github.com/Kaushik7984?tab=repositories" target="_blank">
+    <img alt="All Repositories" title="View All Repositories" src="https://img.shields.io/badge/-View%20All%20Repositories-0077B5?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
