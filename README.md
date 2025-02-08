@@ -53,6 +53,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/kaushik-tapaniya-624142239/"><img src="https://img.shields.io/badge/-Kaushik%20Tapaniya-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:kaushik7984@gmail.com"><img src="https://img.shields.io/badge/-kaushik7984@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/kaushiiq_7x?igsh=bXdxYTNlNDN2cXk4"><img src="https://img.shields.io/badge/-kaushiiq_7x-FB3958?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/kaushiiq_7?igsh=bXdxYTNlNDN2cXk4"><img src="https://img.shields.io/badge/-kaushiiq_7-FB3958?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 
